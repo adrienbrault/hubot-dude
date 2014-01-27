@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n dude
+web: bin/hubot -a slack -n dude
