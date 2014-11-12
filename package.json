@@ -30,7 +30,8 @@
     "nodepie": "~0.5.0",
     "cheerio": "0.*",
     "hubot-slack": "~1.5.2",
-    "hubot-world-cup-live": "~0.2.2"
+    "hubot-world-cup-live": "~0.2.2",
+    "hubot-business-cat": "~1.1.6"
   },
   "engines": {
     "node": ">= 0.8.x",
